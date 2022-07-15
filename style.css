@@ -1,0 +1,9 @@
+.cookie{
+    bottom: -100%;
+    background-color: aqua;
+
+    padding: 20px;
+}
+.cookie.active{
+    bottom: 0%;
+}
